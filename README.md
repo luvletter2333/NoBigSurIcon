@@ -13,7 +13,10 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 | Name          | Link                                | Version |
 | ------------- | ----------------------------------- | ------- |
 | Google Chrome | [Link](Google%20Chrome/README.md)   | 86      |
-| Telegram     | [Link](Telegram/README.md)          | ?      |
+| Telegram     | [Link](Telegram/README.md)          |       |
+| QuickTime Player | [Link](QuickTime%20Player/README.md) |  |
+| Safari | [Link](Safari/README.md) | |
+| Siri | [Link](Siri/Siri.icns) | |
 
 
 ## Directory Format
