@@ -12,11 +12,11 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 
 | Name          | Link                                |
 | ------------- | ----------------------------------- |
-| Google Chrome | [Link](Google%20Chrome/README.md)   |
-| Telegram     | [Link](Telegram/README.md)          |
-| QuickTime Player | [Link](QuickTime%20Player/README.md) |
-| Safari | [Link](Safari/README.md) |
-| Siri | [Link](Siri/Siri.icns) |
+| Google Chrome | [Link](icons/Google%20Chrome.icns)   |
+| Telegram     | [Link](icons/Telegram.icns)          |
+| QuickTime Player | [Link](icons/QuickTime%20Player.icns) |
+| Safari | [Link](icons/Safari.icns) |
+| Siri | [Link](icons/Siri.icns) |
 
 ## How to change the app icon?
 
