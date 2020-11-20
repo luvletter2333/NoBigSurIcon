@@ -22,7 +22,7 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 
 - Download the icon.
 - In Finder, open the `Applications` folder and select the app you want to change icon
--  `File -> Get Info` or shortcut `Cmd + i`, then just drag the icns file to the window.
+-  `File -> Get Info` or shortcut `Cmd + i`, then drag the icns file to the window.
 
 - Use command `killall Dock; killall Finder` to refresh cache. 
 
