@@ -1,15 +1,19 @@
 # No Big Sur Icon
 
+**Any Pull Request is welcomed !!!!**
+
 
 ## Introduction
 
 After macOS Bug Sir update, many applications like Chrome start to change their icons with new design styles. But some users like me don't like them, so this repo is aimed at providing users with their former icons.
 
-## Replace Tutorial
 
-```
-  raise NotImplementedError() 
-```
+## List
+
+| Name          | Link            | Version |
+|---------------|-----------------|---------|
+| Google Chrome | ./Google Chrome | 86      |
+
 
 ## Directory Format
 
