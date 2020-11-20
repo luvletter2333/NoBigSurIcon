@@ -12,7 +12,7 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 
 | Name          | Link                    | Version |
 | ------------- | ----------------------- | ------- |
-| Google Chrome | [Link](./Google Chrome) | 86      |
+| Google Chrome | [Link](Google Chrome)   | 86      |
 
 
 ## Directory Format
