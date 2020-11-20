@@ -18,6 +18,13 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 | Safari | [Link](Safari/README.md) | |
 | Siri | [Link](Siri/Siri.icns) | |
 
+## How to change the app icon?
+
+- Download the icon.
+- In Finder, open the `Applications` folder and select the app you want to change icon
+-  `File -> Get Info` or shortcut `Cmd + i`, then just drag the icns file to the window.
+
+
 
 ## Directory Format
 
