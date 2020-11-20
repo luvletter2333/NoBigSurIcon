@@ -10,9 +10,9 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 
 ## List
 
-| Name          | Link                              | Version |
-| ------------- | --------------------------------- | ------- |
-| Google Chrome | [Link](Google Chrome/README.md)   | 86      |
+| Name          | Link                                           | Version |
+| ------------- | ---------------------------------------------- | ------- |
+| Google Chrome | [Link](NoBigSurIcon/Google Chrome/README.md)   | 86      |
 
 
 ## Directory Format
