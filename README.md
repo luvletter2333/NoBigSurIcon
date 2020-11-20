@@ -1,2 +1,22 @@
-# NoBigSurIcon
-This repo aims at collecting all icons before Bug Sir, which allows users to replace the new ugly icons with the former icons.
+# No Big Sur Icon
+
+
+## Introduction
+
+After macOS Bug Sir update, many applications like Chrome start to change their icons with new design styles. But some users like me don't like them, so this repo is aimed at providing users with their former icons.
+
+## Replace Tutorial
+
+```
+  raise NotImplementedError() 
+```
+
+## Directory Format
+
+Take `Google Chrome` as example:
+
+- ./Google Chrome/ :
+  - app.icns
+    - The name of icns file should be equal to the one in `Google Chrome.app`
+  - README.md
+    - Tutorial to replace, including file path and points for attention
