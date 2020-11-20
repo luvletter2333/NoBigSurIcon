@@ -12,7 +12,7 @@ After macOS Bug Sir update, many applications like Chrome start to change their 
 
 | Name          | Link                                           | Version |
 | ------------- | ---------------------------------------------- | ------- |
-| Google Chrome | [Link](NoBigSurIcon/Google Chrome/README.md)   | 86      |
+| Google Chrome | [Link](NoBigSurIcon/Google%20Chrome/README.md)   | 86      |
 
 
 ## Directory Format
